@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="address.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="499" topLine="3" />
+	</File>
+	<File name="address.h" open="1" top="0" tabpos="2">
+		<Cursor position="259" topLine="1" />
+	</File>
+	<File name="date.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="679" topLine="10" />
+	</File>
+	<File name="date.h" open="1" top="0" tabpos="4">
+		<Cursor position="245" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="226" topLine="0" />
+	</File>
+	<File name="student.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="401" topLine="0" />
+	</File>
+	<File name="student.h" open="1" top="0" tabpos="6">
+		<Cursor position="291" topLine="3" />
+	</File>
+</CodeBlocks_layout_file>

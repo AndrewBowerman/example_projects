@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1500677078 source:c:\users\andy\documents\c++ projects\heapofstudents\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+	"address.h"
+	"date.h"
+	"student.h"
+
+1500522060 source:c:\users\andy\documents\c++ projects\heapofstudents\date.cpp
+	"date.h"
+
+1500525377 source:c:\users\andy\documents\c++ projects\heapofstudents\student.cpp
+	"student.h"
+	"address.h"
+	"date.h"
+
+1500504896 source:c:\users\andy\documents\c++ projects\heapofstudents\address.cpp
+	"address.h"
+
+1500581811 c:\users\andy\documents\c++ projects\heapofstudents\address.h
+	<string>
+
+1500581778 c:\users\andy\documents\c++ projects\heapofstudents\date.h
+	<iostream>
+
+1500674541 c:\users\andy\documents\c++ projects\heapofstudents\student.h
+	"date.h"
+	"address.h"
+

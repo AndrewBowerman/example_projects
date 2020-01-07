@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1500481940 source:c:\users\andy\documents\c++ projects\makefilesproject\library.cpp
+	"library.h"
+
+1500481776 c:\users\andy\documents\c++ projects\makefilesproject\library.h
+	"book.h"
+
+1500482215 c:\users\andy\documents\c++ projects\makefilesproject\book.h
+	<iostream>
+
+1500481916 source:c:\users\andy\documents\c++ projects\makefilesproject\main.cpp
+	<iostream>
+	"library.h"
+	"book.h"
+
+1500482188 source:c:\users\andy\documents\c++ projects\makefilesproject\book.cpp
+	"book.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1499979772 source:c:\users\andy\documents\c++ projects\horseracermult\main.cpp
+	"horse.h"
+	"race.h"
+
+1499978334 c:\users\andy\documents\c++ projects\horseracermult\horse.cpp
+	"horse.h"
+
+1499978370 c:\users\andy\documents\c++ projects\horseracermult\horse.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1499979631 c:\users\andy\documents\c++ projects\horseracermult\race.cpp
+	"horse.h"
+	"race.h"
+
+1499978419 c:\users\andy\documents\c++ projects\horseracermult\race.h
+	"horse.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1499978334 source:c:\users\andy\documents\c++ projects\horseracermult\horse.cpp
+	"horse.h"
+
+1499982449 source:c:\users\andy\documents\c++ projects\horseracermult\race.cpp
+	"horse.h"
+	"race.h"
+

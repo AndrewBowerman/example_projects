@@ -1,0 +1,6 @@
+dog,dog
+fad,fad,fad,fad,fad,fad
+hog
+duck,duck,duck,duck,duck,duck,duck,duck,duck,duck,duck
+abstract
+o,o,o,o,o,o,o,o,o,o
